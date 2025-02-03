@@ -40,9 +40,7 @@ This project analyzes daily ridership trends for the Metropolitan Transportation
 
 ## Repository Structure
 ```
-├── data/
 ├── MTA+Daily+Ridership.zip   # Dataset files (if applicable)
-├── visuals/             # Dashboard screenshots
 ├── MTA_Daily_Ridership.pbix  # Power BI report file
 ├── README.md            # Project documentation
 ```
